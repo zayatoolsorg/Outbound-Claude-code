@@ -30,14 +30,15 @@ The founder **reviews and sends** every message personally.
    Never present an inference as a fact, in files or in outreach.
 4. **Public, professional information only.** No private data, no bypassing logins,
    paywalls or platform restrictions, no scraping at scale.
-5. **Do not overstate Zaya's experience.** The only verified international client
-   is Block Agency, an independent OOH agency headquartered in Dubai. Zaya's work
-   for Block was brand identity, website design, a social post and motion system,
-   and brand guidelines, **not** OOH campaigns or video production. Never write
-   "global client portfolio", "international network", "clients across the world" or
-   similar. See `system/proof-library.md` for exactly what may be claimed.
-6. **Never guess URLs.** In particular, the Block Agency case study URL must come from
-   `system/proof-library.md`. If it's marked unconfirmed, ask the founder.
+5. **Do not overstate Zaya's experience.** Claim only what `system/proof-library.md`
+   allows. Block Agency (an independent OOH agency headquartered in Dubai) is the one
+   full case study: identity, website (designed and built), social post and motion
+   system, and guidelines. It was **not** OOH campaigns or video production.
+   Other proof is labelled film/motion work for named clients (e.g. Captain Fresh,
+   Aspora, Groww, Equitas), with no results shown. Never write "global client
+   portfolio", "international network", "clients across the world" or similar.
+6. **Never guess URLs.** The only confirmed Zaya link is https://www.zayaproductions.com/.
+   Never construct deep links to case studies or work pieces.
 7. **Do not start prospecting, research or outreach unless the founder asks for it.**
 
 ## 3. Positioning in one paragraph
@@ -225,7 +226,10 @@ Each must follow the rules and templates above.
 
 ## 9. Open items (ask the founder; don't assume)
 
-- Block Agency case study URL: **not confirmed**. See `system/proof-library.md`.
-- Block Agency scope is verified from the founder's screenshots (2026-09-28); results are **not shown**.
-- Rule for approaching OOH agencies that compete with Block: **not set** (conflict check).
-- Other case studies (especially video, 3D, motion or post work): none registered yet.
+Settled (2026-09-28): Block case study screenshots are authoritative; no deep link,
+use the homepage. Zaya built the Block website. Competitors of Block may be approached.
+
+Still open:
+- Clients for work pieces PW-07 (Naga), PW-08 (Showcase) and PW-09 (Brand Film).
+- Zaya's scope on each work piece; any results for any project.
+- Proof for luxury, fashion, hospitality, 3D and performance creative: none yet.

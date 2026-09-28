@@ -102,8 +102,9 @@ low-cost production vendor.
 
 The Block Agency case study (repositioning an independent Dubai-headquartered OOH
 agency through identity, website, social system and guidelines) is **highly
-relevant** when the angle is the agency's *own* brand or social presence. It is
-**less relevant** as proof for a motion, 3D, post or production partnership. See
+relevant** when the angle is the agency's *own* brand or social presence. For a
+motion or film production partnership, lead with the work pieces (e.g. the Captain
+Fresh and Aspora motion work). Competitors of Block **may** be approached. See
 `system/proof-library.md`.
 
 ---
@@ -154,8 +155,9 @@ identity · Agency relationships · Campaign results.
 - Business model conflicts with Zaya's positioning (e.g. only wants the cheapest
   high-volume content)
 - Reputational, ethical or legal concerns
-- Potential conflict with an existing Zaya client (e.g. a direct competitor of
-  Block Agency): **flag it for the founder, don't decide alone**
+- Potential conflict with an existing Zaya client: **flag it for the founder,
+  don't decide alone**. (Exception: competitors of Block Agency are explicitly
+  allowed.)
 - A production company that would compete directly rather than partner
 
 ---

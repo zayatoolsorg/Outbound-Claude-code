@@ -93,8 +93,9 @@ visuals, a motion system, a higher-craft social format).
 3D, post, DOOH animation, social cut-downs). Position Zaya as a specialist partner
 that extends their creative execution, never as cheap capacity. When the angle is
 the agency's *own* brand or social presence (especially OOH/media agencies), the
-Block Agency proof is often the strongest opener. Check the conflict rule in
-`proof-library.md` first.
+Block Agency proof is often the strongest opener (competitors of Block may be
+approached). When the angle is motion or film partnership, lead with a work
+piece instead.
 
 ## 7. Follow-ups
 

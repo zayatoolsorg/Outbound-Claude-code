@@ -21,7 +21,7 @@ A prospect must pass **all** gates before it is scored. If any gate fails, it's
 | G2 Visual relevance | Their business benefits from premium visual communication |
 | G3 Active | Some evidence of marketing activity in roughly the last 6 months |
 | G4 Plausible buyer | Nothing in the evidence suggests they can't buy premium creative |
-| G5 No conflict | No known conflict with an existing Zaya client (flag doubts to the founder) |
+| G5 No conflict | No known conflict with an existing Zaya client (flag doubts to the founder). Competitors of Block Agency pass this gate. |
 | G6 Fit with positioning | Approaching them wouldn't make Zaya look cheap, generic or desperate |
 
 ---
