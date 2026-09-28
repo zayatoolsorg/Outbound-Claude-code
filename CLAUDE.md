@@ -31,9 +31,11 @@ The founder **reviews and sends** every message personally.
 4. **Public, professional information only.** No private data, no bypassing logins,
    paywalls or platform restrictions, no scraping at scale.
 5. **Do not overstate Zaya's experience.** The only verified international client
-   is Block Agency, a Dubai-based global OOH/advertising agency. Never write
+   is Block Agency, an independent OOH agency headquartered in Dubai. Zaya's work
+   for Block was brand identity, website design, a social post and motion system,
+   and brand guidelines, **not** OOH campaigns or video production. Never write
    "global client portfolio", "international network", "clients across the world" or
-   similar. See `system/proof-library.md`.
+   similar. See `system/proof-library.md` for exactly what may be claimed.
 6. **Never guess URLs.** In particular, the Block Agency case study URL must come from
    `system/proof-library.md`. If it's marked unconfirmed, ask the founder.
 7. **Do not start prospecting, research or outreach unless the founder asks for it.**
@@ -68,6 +70,7 @@ system/
   qualification.md        ← Creative Opportunity Index (scoring + tiers)
   outreach.md             ← outreach philosophy, tone, channel rules, follow-ups
   proof-library.md        ← Zaya case studies and when to use them
+  proof-assets/           ← source screenshots for each case study (evidence, not for sending)
   learnings.md            ← what's working, what isn't; updated over time
 ```
 
@@ -223,5 +226,6 @@ Each must follow the rules and templates above.
 ## 9. Open items (ask the founder; don't assume)
 
 - Block Agency case study URL: **not confirmed**. See `system/proof-library.md`.
-- What the Block Agency project actually involved (deliverables, formats, results): **not confirmed**.
-- Any other case studies or portfolio pieces: none registered yet.
+- Block Agency scope is verified from the founder's screenshots (2026-09-28); results are **not shown**.
+- Rule for approaching OOH agencies that compete with Block: **not set** (conflict check).
+- Other case studies (especially video, 3D, motion or post work): none registered yet.

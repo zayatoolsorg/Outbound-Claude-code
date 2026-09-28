@@ -100,9 +100,11 @@ low-cost production vendor.
 
 ### Proof relevance for Lane B
 
-The Block Agency case study (Dubai-based global OOH/advertising agency) is usually
-**highly relevant** for OOH agencies and **potentially highly relevant** for
-advertising and creative agencies. See `system/proof-library.md`.
+The Block Agency case study (repositioning an independent Dubai-headquartered OOH
+agency through identity, website, social system and guidelines) is **highly
+relevant** when the angle is the agency's *own* brand or social presence. It is
+**less relevant** as proof for a motion, 3D, post or production partnership. See
+`system/proof-library.md`.
 
 ---
 

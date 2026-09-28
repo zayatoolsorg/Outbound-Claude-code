@@ -91,8 +91,10 @@ visuals, a motion system, a higher-craft social format).
 
 **Lane B — Agencies:** lead with their work and a specific execution area (motion,
 3D, post, DOOH animation, social cut-downs). Position Zaya as a specialist partner
-that extends their creative execution, never as cheap capacity. For OOH agencies,
-the Block Agency proof is often the strongest opener.
+that extends their creative execution, never as cheap capacity. When the angle is
+the agency's *own* brand or social presence (especially OOH/media agencies), the
+Block Agency proof is often the strongest opener. Check the conflict rule in
+`proof-library.md` first.
 
 ## 7. Follow-ups
 
