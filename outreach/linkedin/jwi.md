@@ -2,6 +2,7 @@
 To: Adele Baxter, Managing Director, JWI · https://www.linkedin.com/in/adelebaxter/
 Angle: grooming/product film partner for an agency growing its creative offer
 Proof used: PW-08   Status: Draft — founder to review
+**Note (2026-09-28):** the email now uses the own-brand/social angle with the Block proof. Rewrite this to match before sending, or use it only for a separate product-film approach.
 
 ## 1) Connection note (≤ 300 characters)
 
