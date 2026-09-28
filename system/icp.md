@@ -103,8 +103,9 @@ low-cost production vendor.
 The Block Agency case study (repositioning an independent Dubai-headquartered OOH
 agency through identity, website, social system and guidelines) is **highly
 relevant** when the angle is the agency's *own* brand or social presence. For a
-motion or film production partnership, lead with the work pieces (e.g. the Captain
-Fresh and Aspora motion work). Competitors of Block **may** be approached. See
+motion or film production partnership, lead with the work pieces. Zaya already
+produces for a partner agency (a Bombay Shaving Company launch film, made through
+Beebuzz), which is the Lane B model in practice. Competitors of Block **may** be approached. See
 `system/proof-library.md`.
 
 ---

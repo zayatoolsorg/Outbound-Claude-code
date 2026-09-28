@@ -139,22 +139,22 @@ revenue or business outcomes appear anywhere in the screenshots.
 - The craft on show is strategic, systematic design: an identity built from the
   client's own medium (billboards), and social treated as a system, not one-off
   posts.
-- The motion element is limited to a "post and motion system" for social. It shows
-  motion design within a brand system, not standalone motion, 3D or film work.
+- Within the case study, the motion element is the social "post and motion system".
+  Zaya also made Block's brand film (PW-09, founder-confirmed), which extends the
+  proof to film.
 - The page itself is premium and editorial, so the case study also works as a
   sample of Zaya's taste.
 
 #### NOT VERIFIED: never claim without the founder confirming
 
 - Any results, metrics or business impact of the project.
-- Whether the "Brand Film" work piece (PW-09, "OOH Intelligence") was made for
-  Block. It looks OOH-related, but no client label is visible. Ask the founder.
 - That Zaya produces Block's ongoing social content, or which posts/reels Zaya
   made (the screenshots show a *system*; the reels in the Instagram mockup may or
   may not be Zaya's).
 - That Zaya created any **OOH/billboard advertising** or campaign creative for Block
   or its clients.
-- Any video production, filming, 3D, VFX or brand film work for Block.
+- Any Block video work beyond the one brand film (PW-09). Nothing shows 3D or VFX
+  for Block.
 - Project dates, duration, team or budget.
 - That Block is a current/ongoing client. (The founder has said Zaya currently
   works with Block; the screenshots don't show it. This is founder-stated, so
@@ -175,6 +175,8 @@ revenue or business outcomes appear anywhere in the screenshots.
 - "We designed their identity, social system and brand guidelines, and designed
   and built their website."
 - "We built a post and motion system for their LinkedIn and Instagram."
+- "We also made their brand film." (PW-09, "OOH Intelligence"; founder-confirmed,
+  fully produced by Zaya.)
 - "The brief was that their work was on some of the world's best screens but their
   brand didn't match it." (Keep close to the case-study wording.)
 - "There's a case study on our site." (Link: https://www.zayaproductions.com/ only.)
@@ -194,7 +196,8 @@ Example phrasings (fit to the prospect; don't copy verbatim):
   not Zaya's.)
 - "We've worked with [any Block client or brand visible in the mockups]."
 - Any results ("increased leads", "grew followers", etc.).
-- "We shot / filmed / produced video for Block", "3D for Block".
+- "We produce Block's video content" or any Block video beyond the one brand film;
+  "3D for Block".
 - Presenting "We turn the world's streets into your stage" as client praise.
 - "Block works with us across Dubai, London and Hong Kong" (the guidelines cover
   those offices; nothing shows Zaya works with each office).
@@ -206,12 +209,12 @@ match the quality of its actual work or product**.
 
 | Prospect type | Relevance | Default timing | Why |
 |---|---|---|---|
-| OOH / DOOH / media agencies and media owners | **High** | First message (light) | Same industry, same kind of problem |
+| OOH / DOOH / media agencies and media owners | **High** | First message (light) | Same industry, same kind of problem. Brand film + identity + web + social = full-stack proof for this audience |
 | Advertising, creative, media-buying, experiential or specialist agencies whose own brand/social looks generic | **High** | First message if the angle is their own brand; otherwise after reply | Agency brand undersells its work: the exact brief |
 | B2B / professional / premium service firms that "look like a vendor" (consultancies, architecture, real estate developers' corporate brands, tech/SaaS, fintech) | **Medium–High** | Case by case | Same repositioning problem, different industry |
 | Companies that just rebranded or are about to, or are expanding internationally with multiple offices | **Medium** | After reply, unless the angle is identity/consistency | Identity + guidelines across offices |
 | Brands needing a social *system* (recurring series, consistent covers, LinkedIn + Instagram) | **Medium** | After reply | Social system deliverable |
-| Agencies approached for **production partnership** (motion, 3D, post, editing, VFX) | **Low–Medium** | After reply | Shows taste and ad-industry fluency. Pair with work pieces (PW) for the craft proof |
+| Agencies approached for **production partnership** (motion, 3D, post, editing, VFX) | **Medium** | After reply | Shows taste and ad-industry fluency. Pair with work pieces (PW), especially PW-08, which was made through a partner agency |
 | Consumer brands needing video, brand films, product content, 3D or performance ads (e.g. skincare, fashion, F&B, automotive) | **Low** | Don't lead with it | Different deliverable; use work pieces instead |
 | Hospitality, luxury retail, lifestyle brands whose gap is content/video | **Low** | Don't lead with it | Same as above |
 
@@ -226,14 +229,18 @@ or strategy.
 ## Work portfolio (films and motion pieces)
 
 **Source of truth:** 4 screenshots of the Home and Work sections of
-zayaproductions.com, provided by the founder on 2026-09-28. Copies are in
-`system/proof-assets/work/`. The founder confirmed that the video and motion work
-is on the website.
+zayaproductions.com, provided by the founder on 2026-09-28 (copies in
+`system/proof-assets/work/`), plus founder confirmations on 2026-09-28:
+- **Every piece was fully produced by Zaya** (full production, end to end).
+- PW-07 client: **Ahankarwear**.
+- PW-08 was made **for Beebuzz, a partner agency** of Zaya. The product on screen
+  is Bombay Shaving Company's Sensi Flo 4.
+- PW-09 client: **Block Agency** (its brand film).
 
-Each tile on the site shows: number · title · **client · category** · year. Only
-those labels are verified. There are no written briefs, scope details or results.
+Each tile on the site shows: number · title · client · category · year. There
+are no written briefs or results for these pieces. The website is the full record.
 
-| ID | Title | Client (as labelled) | Category (as labelled) | Year | What's visible in the thumbnail |
+| ID | Title | Client | Category (as labelled) | Year | What's visible in the thumbnail |
 |---|---|---|---|---|---|
 | PW-01 | Platform Narrative | Captain Fresh | Motion | 2025 | Cargo ship at sea; caption "The billion-dollar" |
 | PW-02 | Financial Advertisement | Aspora | Motion | 2025 | Glass-card UI graphic on dark purple: "The digital era of NRI Banking", "Setup in 5 mins"; phone mockup |
@@ -241,9 +248,9 @@ those labels are verified. There are no written briefs, scope details or results
 | PW-04 | Human Rights | Equitas | Film | 2024 | Flat yellow / pale-blue graphic shapes |
 | PW-05 | GrowwEdge | Groww | YouTube Video | 2024 | YouTube-style thumbnail: presenter in a train cab, "No Drivers for Trains?", Groww logo |
 | PW-06 | Optimus | Captain Fresh | Motion | 2023 | Animated data graphic: "$600 BILLION" over a world map with fish; source note citing a Redseer report on the seafood distribution industry |
-| PW-07 | Naga | **Not visible** | **Not visible** | 2025 | Cosmic, VFX-style composite: a hand with a cobra and a floating damru drum |
-| PW-08 | Showcase | **Not visible** | **Not visible** | 2025 | Product video: hand holding a Bombay Shaving Company razor box, "Presenting Sensi Flo 4" |
-| PW-09 | Brand Film | **Not visible** | **Not visible** | 2025 | Motion graphic: "OOH INTELLIGENCE" with floating billboard/screen images |
+| PW-07 | Naga | Ahankarwear (founder) | Not visible | 2025 | Cosmic, VFX-style composite: a hand with a cobra and a floating damru drum |
+| PW-08 | Showcase | Beebuzz, partner agency (founder); product: Bombay Shaving Company Sensi Flo 4 | Not visible | 2025 | Product video: hand holding the Sensi Flo 4 razor box, "Presenting Sensi Flo 4" |
+| PW-09 | Brand Film | Block Agency (founder) | Brand film | 2025 | Motion graphic: "OOH INTELLIGENCE" with floating billboard/screen images |
 
 #### REASONABLE CREATIVE OBSERVATIONS
 
@@ -253,38 +260,51 @@ those labels are verified. There are no written briefs, scope details or results
 - It shows **films** (Groww Hackathon, Equitas Human Rights): an event/culture film
   and an issue-led film.
 - It shows **YouTube content** (GrowwEdge): presenter-led, long-form style.
-- PW-07 (Naga) suggests **VFX/CGI compositing** ability. PW-08 suggests **product
-  showcase** ability for consumer brands. Both need client labels confirmed.
+- PW-07 (Naga, Ahankarwear) shows **VFX/CGI compositing** and a bold, mythic
+  visual style.
+- PW-08 (Showcase) shows **consumer product launch video**. It's also proof that
+  Zaya already works **as a production partner to an agency** (Beebuzz), which is
+  the exact Lane B model.
+- PW-09 gives the Block relationship a **film** as well as the brand system, so
+  Block is now proof of identity, web, social and brand film.
 - The work skews toward **Indian and India-linked companies**. Where each client
   operates isn't verified here, so don't describe them as international brands.
 - No 3D-specific or post-production-specific piece is labelled as such.
 
 #### NOT VERIFIED (ask the founder before using)
 
-- Clients for PW-07, PW-08 and PW-09. In particular: was PW-08 made for Bombay
-  Shaving Company (the brand is visible, but the client label isn't)? Was PW-09 made
-  for Block Agency?
-- Zaya's scope on any piece (concept, script, shoot, edit, motion, sound, all of it?).
 - Whether any piece ran as paid advertising, and on what platforms.
 - Any results, views or performance.
 - Descriptions of the client companies (what they do, where, how big). Nothing
   about them is recorded here, and nothing should be stated in outreach unless
-  it's verified separately.
+  it's verified separately. This includes what Ahankarwear sells.
+- Whether Bombay Shaving Company itself knows or credits Zaya. The work was
+  commissioned through Beebuzz.
 
 #### Claims the outbound system MAY make
 
 - "We've made motion work for Captain Fresh and Aspora."
 - "We've made films for Groww and Equitas."
 - "We made a YouTube video for Groww (GrowwEdge)."
-- Naming a specific piece by title and client, as labelled (e.g. "the Financial
-  Advertisement we made for Aspora").
+- "We made Naga for Ahankarwear."
+- "We produced a launch film for Bombay Shaving Company's Sensi Flo 4 with a partner
+  agency." (For agency prospects, "we produce for agency partners, e.g. a product
+  launch film for Bombay Shaving Company" is fine.)
+- "We made Block Agency's brand film."
+- "We handle full production", or "we produced it end to end", for any of these
+  pieces.
+- Naming a specific piece by title and client (e.g. "the Financial Advertisement
+  we made for Aspora").
 - "You can see the work on our site" → https://www.zayaproductions.com/.
 
 #### Claims the outbound system must NOT make
 
 - Anything about results, reach, views or campaign performance.
-- Scope beyond the label (e.g. "we shot and produced the whole campaign for Groww").
-- Client names for PW-07, PW-08 or PW-09 until confirmed.
+- Claiming a whole campaign, series or retainer when the proof is one piece
+  (e.g. "we produce all of Groww's content").
+- "Bombay Shaving Company is our client" or "we worked directly with Bombay
+  Shaving Company". It was made through Beebuzz. Don't name Beebuzz in outreach
+  without the founder's OK, as partner agencies often prefer discretion.
 - "We work with leading fintech brands" or other generalised scale claims. Name the
   specific pieces instead.
 - That Groww, Aspora, Captain Fresh or Equitas are ongoing clients.
@@ -295,20 +315,23 @@ those labels are verified. There are no written briefs, scope details or results
 |---|---|---|---|
 | Fintech, banking, investing, payments apps | PW-02 (Aspora), PW-05 / PW-03 (Groww) | **High** | First message (light) |
 | SaaS, B2B platforms, supply-chain/marketplace, data-heavy stories | PW-01, PW-06 (Captain Fresh) | **High** | First message if the angle is explaining a complex product |
-| Agencies looking for a motion / film production partner | PW-01, PW-02, PW-06 + CS-001 | **Medium–High** | First message may mention one piece; share more after reply |
+| Agencies looking for a motion / film production partner | PW-08 (made via a partner agency), PW-01, PW-02, PW-06, PW-09 | **High** | First message may mention one piece; share more after reply |
+| OOH / DOOH agencies (brand film angle) | PW-09 (Block brand film) + CS-001 | **High** | First message (light) |
 | Brands with YouTube or creator-led content | PW-05 (GrowwEdge) | **Medium** | After reply |
 | Mission-led, NGO, foundation or purpose-led brands | PW-04 (Equitas) | **Medium** | After reply |
 | Employer brand, events, internal culture (hackathons, launches) | PW-03 (Groww Hackathon) | **Medium** | After reply |
-| Consumer product / D2C / grooming / beauty launches | PW-08 (Showcase), once the client is confirmed | **Medium** (pending) | After reply |
-| Entertainment, music, gaming, visually bold brands needing VFX/CGI | PW-07 (Naga), once the client is confirmed | **Medium** (pending) | After reply |
+| Consumer product / D2C / grooming / beauty launches | PW-08 (Sensi Flo 4 launch) | **High** | First message if the angle is a product launch |
+| Entertainment, music, gaming, apparel or visually bold brands needing VFX/CGI | PW-07 (Naga, Ahankarwear) | **Medium** | After reply, or first message if the angle is VFX |
 | Luxury, fashion, hospitality needing premium lifestyle film/3D | None directly | **Low** | Don't lead with proof; lead with the observation |
 
-#### Remaining gaps in the proof library
+#### Known gaps (founder confirmed there's no further proof, 2026-09-28)
 
-- **Luxury, fashion, hospitality, lifestyle**: no matching piece yet.
-- **3D** and **performance ad creative**: nothing explicitly labelled.
-- **Written case studies** for the video/motion work: none. A short brief plus
-  approach for PW-01/PW-02 would make them much stronger proof.
+- **Luxury, fashion, hospitality, lifestyle** and **3D / performance ad
+  creative**: no matching piece. For these prospects, outreach leads with a sharp
+  observation and points to the site in general, without claiming matching
+  experience.
+- The **website is the full portfolio**. Don't ask the founder for more proof; add
+  entries only when the founder provides them.
 
 ---
 

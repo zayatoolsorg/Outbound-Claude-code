@@ -33,10 +33,11 @@ The founder **reviews and sends** every message personally.
 5. **Do not overstate Zaya's experience.** Claim only what `system/proof-library.md`
    allows. Block Agency (an independent OOH agency headquartered in Dubai) is the one
    full case study: identity, website (designed and built), social post and motion
-   system, and guidelines. It was **not** OOH campaigns or video production.
-   Other proof is labelled film/motion work for named clients (e.g. Captain Fresh,
-   Aspora, Groww, Equitas), with no results shown. Never write "global client
-   portfolio", "international network", "clients across the world" or similar.
+   system, guidelines, plus a brand film. It was **not** OOH ad campaigns.
+   Other proof is fully produced film/motion work (Captain Fresh, Aspora, Groww,
+   Equitas, Ahankarwear, and a Bombay Shaving Company launch made through a partner
+   agency), with no results shown. Never write "global client portfolio",
+   "international network", "clients across the world" or similar.
 6. **Never guess URLs.** The only confirmed Zaya link is https://www.zayaproductions.com/.
    Never construct deep links to case studies or work pieces.
 7. **Do not start prospecting, research or outreach unless the founder asks for it.**
@@ -226,10 +227,11 @@ Each must follow the rules and templates above.
 
 ## 9. Open items (ask the founder; don't assume)
 
-Settled (2026-09-28): Block case study screenshots are authoritative; no deep link,
-use the homepage. Zaya built the Block website. Competitors of Block may be approached.
+Settled (2026-09-28): the proof library is complete. The website is the full
+portfolio; don't ask for more proof. The screenshots are authoritative, and the only
+link is the homepage. Zaya built the Block website and made Block's brand film. All
+work pieces were fully produced by Zaya. Competitors of Block may be approached.
+There's no proof for luxury, fashion, hospitality, 3D or performance creative; lead
+with the observation for those.
 
-Still open:
-- Clients for work pieces PW-07 (Naga), PW-08 (Showcase) and PW-09 (Brand Film).
-- Zaya's scope on each work piece; any results for any project.
-- Proof for luxury, fashion, hospitality, 3D and performance creative: none yet.
+Still open: none blocking. No project has published results, so never cite any.
