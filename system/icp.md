@@ -140,6 +140,26 @@ Record each signal as a FACT with a source. Don't assume any of these.
 
 ---
 
+## 5b. Social media retainer filter (founder rule, 2026-09-28)
+
+For **social media** prospects (planning, post design, motion, editing on their own
+channels), target brands whose Instagram is **small or underdeveloped**. A large,
+established account usually means a team or agency already runs it.
+
+| Main-account IG followers | Treatment for social retainers |
+|---|---|
+| **Under ~10K** | Ideal. Check it's still active and the business can pay. |
+| **~10K–30K** | Borderline. Keep only if posting is irregular or the quality is visibly behind the brand, or there's a clear gap (e.g. the founder has a big following but the brand doesn't). |
+| **Over ~30K** | Deprioritise for social. Park; may still suit a one-off film/motion project. |
+
+Also required: evidence the business can pay (funding, retail distribution, multiple
+locations, premium pricing). A small account alone isn't a buying signal.
+
+Follower counts come from search-result snippets unless viewed directly. Record them
+as "~N (search snippet, date unknown)" and treat them as approximate.
+
+---
+
 ## 6. Never assume (write `Not verified.`)
 
 Revenue · Budget · Funding · Employee count · Marketing spend · Decision-maker

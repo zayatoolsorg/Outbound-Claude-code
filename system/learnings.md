@@ -55,3 +55,4 @@ Action taken: (e.g. changed weights in qualification.md, new banned phrase, new 
 | Date | Change | Reason |
 |---|---|---|
 | 2026-09-28 | Foundation created | Initial setup |
+| 2026-09-28 | Added the social media follower filter (icp.md §5b) | Founder: brands with big IG presence already have a team handling it |
