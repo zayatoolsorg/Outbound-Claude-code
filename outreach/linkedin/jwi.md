@@ -32,4 +32,4 @@ Facts the message relies on:
 - Gillette "Father's Day is Closer Than You Think": forgotten date, nominations. [campaignme.com/gillette-gives-the-regions-dads-a-fathers-day-to-remember/]
 - Adele Baxter promoted to MD; mandate to "strengthen JWI's strategic partnerships and creative offerings". [campaignme.com/jwi-promotes-adele-baxter-to-managing-director-signalling-new-phase-of-growth/]
 - PW-08 wording follows the allowed claims in system/proof-library.md (partner agency not named).
-Before sending: check her LinkedIn title now reads MD. The note is ~285 characters; recount after any edits.
+Before sending: check her LinkedIn title now reads MD. The note is 244 characters; recount after any edits.
