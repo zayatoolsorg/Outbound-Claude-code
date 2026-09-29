@@ -22,6 +22,20 @@ Happy to set up the discussion you mentioned. What time works for you this week?
 
 [Your name]
 
+## 3) WhatsApp message (founder has his number)
+
+Hi Proteek, this is [Your name] from Zaya Productions. I saw your LinkedIn post about
+social media and online ads.
+
+We're a creative studio, and we handle social media end to end: planning, post design,
+short-form video, motion and ad creative. In fintech, we've produced a financial ad for
+Aspora, and films and YouTube content for Groww.
+
+Our work: https://www.zayaproductions.com/
+
+Would be glad to understand what you're looking for. Is there a good time for a quick
+call this week?
+
 ---
 Check before sending:
 - "Online ads" may mean running paid campaigns (media buying, targeting, reporting), not just
