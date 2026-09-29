@@ -29,8 +29,8 @@ Portfolio and the Block case study: https://www.zayaproductions.com/
 Happy to share initial routes as soon as we have the brief. What's the best number to reach you on?
 
 Best,
-[Your name]
-[Title], Zaya Productions
+Vedant Singhal
+Founder, Zaya Productions
 [Phone]
 
 ---

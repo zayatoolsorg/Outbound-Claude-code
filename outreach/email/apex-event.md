@@ -28,8 +28,8 @@ Happy to share a few content ideas for Apex Event's page, or set up a call to un
 what you need.
 
 Best,
-[Your name]
-[Title], Zaya Productions
+Vedant Singhal
+Founder, Zaya Productions
 [Phone]
 
 ---

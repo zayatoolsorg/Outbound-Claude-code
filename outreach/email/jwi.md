@@ -27,8 +27,8 @@ The Block case study is on our site: https://www.zayaproductions.com/
 Worth a conversation?
 
 Best,
-[Your name]
-[Title], Zaya Productions
+Vedant Singhal
+Founder, Zaya Productions
 
 ---
 Why this angle: agency brands often come last. JWI's identity is strong but its feed is

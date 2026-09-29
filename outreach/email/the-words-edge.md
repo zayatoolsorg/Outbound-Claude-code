@@ -27,8 +27,8 @@ Happy to share work closer to the job-portal brief, or put together a short appr
 note once you can share more.
 
 Best,
-[Your name]
-[Title], Zaya Productions
+Vedant Singhal
+Founder, Zaya Productions
 [Phone]
 
 ---

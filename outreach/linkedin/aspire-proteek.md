@@ -20,11 +20,11 @@ You can see the work at zayaproductions.com.
 
 Happy to set up the discussion you mentioned. What time works for you this week?
 
-[Your name]
+Vedant Singhal
 
 ## 3) WhatsApp message (founder has his number)
 
-Hi Proteek, this is [Your name] from Zaya Productions. I saw your LinkedIn post about
+Hi Proteek, this is Vedant Singhal from Zaya Productions. I saw your LinkedIn post about
 social media and online ads.
 
 We're a creative studio, and we handle social media end to end: planning, post design,

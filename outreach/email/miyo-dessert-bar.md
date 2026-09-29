@@ -30,7 +30,7 @@ For you, I see two tracks:
 Happy to put together a few ideas for Miyo's page. Should I send them over?
 
 Best,
-[Your name]
+Vedant Singhal
 Zaya Productions · https://www.zayaproductions.com/
 
 ---

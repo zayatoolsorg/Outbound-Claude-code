@@ -34,8 +34,8 @@ on scope, and we can confirm them after a short call.
 Happy to walk you through this, or tailor it once we know more about the product.
 
 Best,
-[Your name]
-[Title], Zaya Productions
+Vedant Singhal
+Founder, Zaya Productions
 [Phone]
 
 ---

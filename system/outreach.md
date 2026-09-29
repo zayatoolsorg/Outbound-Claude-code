@@ -76,8 +76,14 @@ The message should read as if a creative person noticed something specific.
   campaign), no clickbait, no "Quick question".
 - Only to publicly listed addresses or ones the founder provides. **Never guessed or
   pattern-generated emails.**
-- Signature: founder name, Zaya Productions, website. The founder will provide
-  the final signature.
+- Signature (all channels, whenever a sign-off is needed):
+  ```
+  Vedant Singhal
+  Founder, Zaya Productions
+  https://www.zayaproductions.com/
+  ```
+  Add a phone line only if the founder supplies the number. Otherwise leave `[Phone]`.
+- Messages written in the first person ("I run Zaya Productions") are from Vedant.
 - A proof link only if it's confirmed in `proof-library.md`.
 
 Don't write the same message for every platform. Each channel draft should read

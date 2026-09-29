@@ -24,7 +24,7 @@ Company's Sensi Flo 4, made with a partner agency and produced end to end by us.
 Given your grooming work, it felt worth putting on your radar. Happy to send a couple
 of pieces if useful. zayaproductions.com
 
-[Your name]
+Vedant Singhal
 
 ---
 Why this angle: the audit found an idea-led, content-first agency with a grooming account
