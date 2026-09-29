@@ -29,7 +29,7 @@ note once you can share more.
 Best,
 Vedant Singhal
 Founder, Zaya Productions
-[Phone]
++91 98681 27751
 
 ---
 Why this angle: they asked for a portfolio and case studies, so the email mirrors their four

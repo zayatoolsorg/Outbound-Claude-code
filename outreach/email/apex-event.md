@@ -30,7 +30,7 @@ what you need.
 Best,
 Vedant Singhal
 Founder, Zaya Productions
-[Phone]
++91 98681 27751
 
 ---
 Check before sending:

@@ -36,7 +36,7 @@ Happy to walk you through this, or tailor it once we know more about the product
 Best,
 Vedant Singhal
 Founder, Zaya Productions
-[Phone]
++91 98681 27751
 
 ---
 Check before sending:

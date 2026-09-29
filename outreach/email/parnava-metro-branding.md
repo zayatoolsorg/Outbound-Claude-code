@@ -31,7 +31,7 @@ Happy to share initial routes as soon as we have the brief. What's the best numb
 Best,
 Vedant Singhal
 Founder, Zaya Productions
-[Phone]
++91 98681 27751
 
 ---
 Why this angle: the brief asks for OOH + social experience. Block is an OOH client, and its

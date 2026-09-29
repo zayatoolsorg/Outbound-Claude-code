@@ -80,9 +80,10 @@ The message should read as if a creative person noticed something specific.
   ```
   Vedant Singhal
   Founder, Zaya Productions
+  +91 98681 27751
   https://www.zayaproductions.com/
   ```
-  Add a phone line only if the founder supplies the number. Otherwise leave `[Phone]`.
+  Include the phone line in emails and WhatsApp; leave it out of LinkedIn notes.
 - Messages written in the first person ("I run Zaya Productions") are from Vedant.
 - A proof link only if it's confirmed in `proof-library.md`.
 
