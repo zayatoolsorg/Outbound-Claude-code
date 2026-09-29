@@ -31,7 +31,7 @@ Happy to put together a few ideas for Miyo's page. Should I send them over?
 
 Best,
 Vedant Singhal
-Zaya Productions · https://www.zayaproductions.com/
+Founder, Zaya Productions · https://www.zayaproductions.com/
 
 ---
 Why this angle: his carousel is about being judged before your work is seen, which is
