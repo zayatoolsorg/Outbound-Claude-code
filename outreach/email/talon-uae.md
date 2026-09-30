@@ -1,28 +1,36 @@
-# Talon (UAE) — Email draft
+# Talon (UAE) — Email draft (v2: social + website)
 To: Talon UAE, FAO Chadi Farhat (leads MENA from Dubai). Email address: founder to supply.
-Angle: social media management for an OOH agency. Proof: the Block Agency case study.
-Proof used: CS-001 (social section: "a feed built like a media plan"), PW-09   Status: Draft — founder to review
+Angle: social media management + website refresh for an OOH agency that's now also a tech
+platform (Atlas). Proof: Block Agency case study.
+Facts from search results (talonooh.com not viewable here): offices in UK, US, CA, IRE, DE, UAE, SG;
+Atlas = Atlas Insights (audience intelligence), Atlas Planner (AI planning for programmatic
+DOOH), Atlas Studio (dynamic DOOH creative). Sources: talonooh.com/products/atlas/,
+talonooh.com/talon-atlas-plannner-launch/
+Proof used: CS-001, PW-09, PW-01/06 (data storytelling)   Status: Draft — founder to review
 
-**Subject:** Social media for Talon MENA: a feed built like a media plan
+**Subject:** Talon's story, on social and on site
 
 Hi Chadi,
 
-I run Zaya Productions, a creative studio. We manage social media for OOH brands, and I think
-Talon's MENA channels are a strong fit.
+I run Zaya Productions, a creative studio working with OOH brands on social media, websites and
+motion.
 
-We recently did this for Block Agency, an independent OOH agency headquartered in Dubai. We
-built their LinkedIn and Instagram as "a feed built like a media plan":
-- **Recurring series** doing the heavy lifting, like *The Global 5*, ranking the sites worth
-  buying in each region.
-- **City posts** that put one screen in context.
-- **A single cover system**, so every post is instantly recognisable in the scroll.
+Talon has an interesting storytelling challenge: it's a global OOH agency across seven markets,
+and with Atlas it's now a technology platform too. Planner, Insights and Studio are a lot to
+explain in a scroll or on a homepage.
 
-It sat alongside a full rebrand: identity, website, guidelines and a brand film.
+That's close to what we did for Block Agency, an independent OOH agency headquartered in Dubai:
+- **Social:** a LinkedIn and Instagram feed built like a media plan, with recurring series like
+  *The Global 5* ranking the sites worth buying, city posts that put one screen in context, and
+  one cover system throughout.
+- **Website:** designed and built around the work itself: selected work, cities, capabilities
+  and their industry insight.
+- **Plus** a new identity, guidelines and a brand film.
 
 Case study: [paste Block case study link]
 
-For Talon, that could mean planning, design, motion and editing across your channels, turning
-campaigns, sites and market insight into content that works as hard as the placements.
+For Talon MENA we could run social end to end and refresh the site so Atlas and the agency tell
+one story, with short motion explainers that make the tech easy to get.
 
 Would you be open to a short conversation?
 
@@ -34,9 +42,9 @@ https://www.zayaproductions.com/
 
 ---
 Notes:
-- Block claims per system/proof-library.md; social details quoted from the case study.
-  No Block clients, pricing or results are mentioned.
-- Talon is a global agency; the email targets the MENA office's channels. Swap "MENA" for
-  "global" if writing to London.
-- If you don't have Chadi's address, open with "Hi Talon team" and send it to the UAE office's contact address.
-- Word count ≈ 190.
+- The email doesn't criticise Talon's current site or social. We haven't seen either, so it's framed
+  as a storytelling challenge created by Atlas, which is factual.
+- The website offer is a "refresh" for the MENA office. A full global rebrand is a big ask for
+  a first email; raise it on the call if there's appetite.
+- Block claims per system/proof-library.md; no Block clients, pricing or results.
+- Word count ≈ 215.
