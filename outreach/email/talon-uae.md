@@ -1,29 +1,33 @@
-# Talon (UAE) — Email draft (v3: website refresh first, social second)
+# Talon (UAE) — Email draft (v4: website + social, equal weight)
 To: Talon UAE, FAO Chadi Farhat (leads MENA from Dubai). Email address: founder to supply.
 Founder observation (2026-09-30): Talon's work is excellent, but the website underplays their
 position and could look more current.
 Facts from search results: offices in UK, US, CA, IRE, DE, UAE, SG; Atlas (Insights, Planner, Studio).
 Proof used: CS-001, PW-09   Status: Draft — founder to review
 
-**Subject:** Talon's work is ahead of its website
+**Subject:** Talon's website and social: bringing them up to the work
 
 Hi Chadi,
 
-I run Zaya Productions, a creative studio working with OOH brands on websites, social and motion.
+I run Zaya Productions, a creative studio working with OOH brands.
 
-Talon's work is genuinely impressive: seven markets, award-winning campaigns, and now Atlas as a
-technology platform. The website doesn't quite show that yet. It undersells where Talon is today.
+Talon's work is genuinely impressive: seven markets, strong campaigns, and now Atlas as a
+technology platform. Your website and social don't quite show that yet, and we'd like to help
+with both.
 
-We solved the same problem for Block Agency, an independent OOH agency headquartered in Dubai.
-Their work was already on some of the world's best screens, but their brand read like a media
-vendor. We designed and built a new website around the work itself (selected work, cities,
-capabilities and their industry insight), alongside a new identity, a LinkedIn and Instagram
-system built like a media plan, and a brand film.
+**Website refresh:** a more current site that leads with the work and tells the agency and Atlas
+story in one place.
+
+**Social media management:** planning, design, motion and editing across LinkedIn and
+Instagram, so every post carries the same standard as your campaigns.
+
+We did exactly this for Block Agency, an independent OOH agency headquartered in Dubai. Their
+work was on some of the world's best screens, but their brand read like a media vendor. We
+designed and built a new website around their work, and created a LinkedIn and Instagram feed
+built like a media plan, with recurring series, city posts and one cover system, alongside a new
+identity and a brand film.
 
 Case study: [paste Block case study link]
-
-For Talon, we'd refresh the site so it looks as current as the work and tells the agency and
-Atlas story in one place, then carry that into your social channels so every post reinforces it.
 
 Would you be open to a short conversation?
 
@@ -35,9 +39,7 @@ https://www.zayaproductions.com/
 
 ---
 Notes:
-- "Award-winning campaigns" rests on Talon describing its own "award winning creative innovation"
-  (Campaign ME, Talon MENA launch). Keep it or cut it; it's their claim, not ours.
-- The critique is kept respectful ("doesn't quite show that yet", "undersells"). It criticises the
-  gap, never the site's design itself.
+- The critique covers both the website and social as the founder asked, but it's framed as a gap
+  ("don't quite show that yet"), not a judgement of their design.
 - Block claims per system/proof-library.md; no Block clients, pricing or results.
 - Word count ≈ 200.
