@@ -40,7 +40,14 @@ These are **assumptions to test**, not findings.
 
 ## 3. Findings
 
-_None yet. Add dated entries below as evidence accumulates._
+### 2026-09-29 — LinkedIn "looking for an agency" posts convert fastest
+Sample: n = 1 reply so far (Apex Event) from ~8 LinkedIn-request leads. Small sample.
+Finding: a short connection note that mirrors the post's own list of needs got an accepted
+invite and an email address within ~2 minutes.
+Evidence: founder screenshot of the LinkedIn chat with Harpreet Kaur.
+Action taken: created system/linkedin-requests-playbook.md; LinkedIn requests are now the primary cycle.
+
+_Add dated entries below as evidence accumulates._
 
 ```markdown
 ### YYYY-MM-DD — <short title>

@@ -72,6 +72,7 @@ system/
   qualification.md        ← Creative Opportunity Index (scoring + tiers)
   outreach.md             ← outreach philosophy, tone, channel rules, follow-ups
   proof-library.md        ← Zaya case studies and when to use them
+  linkedin-requests-playbook.md ← finding + replying to "looking for an agency" posts
   proof-assets/           ← source screenshots for each case study (evidence, not for sending)
   learnings.md            ← what's working, what isn't; updated over time
 ```
