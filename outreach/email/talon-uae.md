@@ -1,8 +1,8 @@
-# Talon (UAE) — Email draft (v4: website + social, equal weight)
+# Talon (UAE) — Email draft (v5: website + social, no Atlas)
 To: Talon UAE, FAO Chadi Farhat (leads MENA from Dubai). Email address: founder to supply.
 Founder observation (2026-09-30): Talon's work is excellent, but the website underplays their
 position and could look more current.
-Facts from search results: offices in UK, US, CA, IRE, DE, UAE, SG; Atlas (Insights, Planner, Studio).
+Facts from search results: offices in UK, US, CA, IRE, DE, UAE, SG. (Atlas angle removed at founder's request.)
 Proof used: CS-001, PW-09   Status: Draft — founder to review
 
 **Subject:** Talon's website and social: bringing them up to the work
@@ -11,12 +11,11 @@ Hi Chadi,
 
 I run Zaya Productions, a creative studio working with OOH brands.
 
-Talon's work is genuinely impressive: seven markets, strong campaigns, and now Atlas as a
-technology platform. Your website and social don't quite show that yet, and we'd like to help
-with both.
+Talon's work is genuinely impressive: seven markets and strong campaigns. Your website and
+social don't quite show that yet, and we'd like to help with both.
 
-**Website refresh:** a more current site that leads with the work and tells the agency and Atlas
-story in one place.
+**Website refresh:** a more current site that leads with the work and shows Talon's position as a
+global OOH specialist.
 
 **Social media management:** planning, design, motion and editing across LinkedIn and
 Instagram, so every post carries the same standard as your campaigns.
